@@ -1,0 +1,12 @@
+server1:
+  aliasName: #alias name
+  pemFile: #path/to/pem file
+  ip: # ip of server
+
+# server2:
+#   aliasName: #alias name
+#   pemFile: #path/to/pem file
+#   ip: # ip of server
+
+
+
